@@ -1,0 +1,6 @@
+{
+	"require": {
+		"dubcanada/uaparser": "dev-master",
+		"willdurand/geocoder": "*"
+	}
+}
